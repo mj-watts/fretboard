@@ -4,6 +4,8 @@
 
 Just the barebones, currently.
 
+To run: `npm run dev`
+
 TODOS:
 
 - Make it look good
@@ -11,3 +13,4 @@ TODOS:
 - Show repeating patterns
 - Show patterns in particular sections
 - Show patterns for E and A strings
+- Add unit tests
